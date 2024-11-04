@@ -1,6 +1,7 @@
 import { Analytics } from './cmps/Analytics'
 import { Hero } from './cmps/Hero'
 import { Navbar } from './cmps/Navbar'
+import { Newsletter } from './cmps/Newsletter'
 
 export function RootCmp() {
   return (
@@ -8,6 +9,7 @@ export function RootCmp() {
       <Navbar />
       <Hero/>
       <Analytics/>
+      <Newsletter/>
     </section>
   )
 }
