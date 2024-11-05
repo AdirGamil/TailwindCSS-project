@@ -2,6 +2,10 @@
 
 Welcome to the Subscription Plans showcase! This component displays different subscription plans, each with unique features, allowing users to easily compare and choose the plan that fits their needs.
 
+## 🎥 Demo
+
+![Demo](https://res.cloudinary.com/dhweqnxgd/image/upload/v1730791598/TailwindCSSProject_ufhvpw.png)
+
 ## 🎨 Design and Features
 
 - **Responsive Design:** The portfolio is fully responsive, ensuring a smooth experience on any device, from mobile phones to desktops.
